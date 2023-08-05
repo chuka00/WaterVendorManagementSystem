@@ -65,7 +65,7 @@ A software solution is can be a bridge between the vendors and customers, provid
   Create a folder on your local machine for the project <br/>
   Open Command prompt / Terminal in the same folder location <br/>
   In your Terminal, type: <br/>
-  `git clone https://github.com/Tenece-BEZAO/WVMS_API.git` 
+  `git clone https://github.com/chuka00/WaterVendorManagementSystem` 
 3. Pull upstream to get up to date with the original repo:<br/>
     `git pull -u development`
 4. Create a new branch for the task you are working on :<br/>
