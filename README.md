@@ -60,7 +60,7 @@ A software solution is can be a bridge between the vendors and customers, provid
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
  
 ## Contributors Guide
-1. Visit the project repository on [Github](https://github.com/Tenece-BEZAO/WVMS_API.git)<br/>
+1. Visit the project repository on [Github](https://github.com/chuka00/WaterVendorManagementSystem)<br/>
 2. Make a local clone: <br/>
   Create a folder on your local machine for the project <br/>
   Open Command prompt / Terminal in the same folder location <br/>
