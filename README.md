@@ -85,7 +85,7 @@ A software solution is can be a bridge between the vendors and customers, provid
 
 ## Features of the Application
 
-__Unauthenticated Users__ - An individual that has not registered on website would be able to:
+__Unauthenticated Users__ - An individual that has not registered on the website would be able to:
 
 - Visit the platform to view listed products by vendors
 - Register as either a customer or a vendor to access more functionalities
@@ -93,10 +93,10 @@ __Unauthenticated Users__ - An individual that has not registered on website wou
 
 __Authenticated Users__ - A user can be only one of; vendor or customer: 
 
-- Full access to the platform
-- Allow profile creation and edit
-- Access to transaction history
-- Allow vendors to list product and customers to place orders
+- Full access to the platform.
+- Allow profile creation and edit.
+- Access to transaction history.
+- Allow vendors to list products and customers to place orders
 - Allow vendors access to key metrics to track business growth
 
 __Admin User__
